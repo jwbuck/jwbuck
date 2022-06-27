@@ -9,4 +9,4 @@
     - Drawio, OmniGraffle, Cmder, VsCode, CLion
     - JavaScript, TypeScript, Node.js, Rust, C++
     - PostgreSQL, SQLite, TimescaleDB, InfluxDB, LevelDB
-    - Open Computer Vision, Point Cloud Library, GraphQL
+    - Open Computer Vision Library, Point Cloud Library, GraphQL

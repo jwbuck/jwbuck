@@ -13,7 +13,7 @@
     
 ### Stats
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwbuck&count_private=true&show_icons=true&custom_title=Josh's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwbuck&count_private=true&show_icons=true&include_all_commits=true&custom_title=Josh's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

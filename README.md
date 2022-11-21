@@ -13,7 +13,7 @@
     
 ### Stats
 
-[![Josh's GitHub stats](github-readme-stats-iota-lake.vercel.app/api?username=jwbuck&count_private=true&show_icons=true&include_all_commits=true&custom_title=Josh's%20GitHub%20stats)](https://github.com/jwbuck/github-readme-stats/tree/jwbuck-deployment)
+[![Josh's GitHub stats](https://github-readme-stats-iota-lake.vercel.app/api?username=jwbuck&count_private=true&show_icons=true&include_all_commits=true&custom_title=Josh's%20GitHub%20stats)](https://github.com/jwbuck/github-readme-stats/tree/jwbuck-deployment)
 
 
 <!--

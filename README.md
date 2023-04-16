@@ -13,7 +13,7 @@
     
 ### Stats
 
-[![Josh's GitHub Stats Since October 2022](https://github-readme-stats-iota-lake.vercel.app/api?username=jwbuck&count_private=true&show_icons=true&include_all_commits=true&custom_title=Josh's%20GitHub%20Stats%20Since%20October%202022)](https://github.com/jwbuck/github-readme-stats/tree/jwbuck-deployment)
+[![Josh's GitHub Stats Since October 2022](https://github-readme-stats-iota-lake.vercel.app/api?username=jwbuck&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&custom_title=Josh's%20GitHub%20Stats%20Since%20October%202022)](https://github.com/jwbuck/github-readme-stats/tree/jwbuck-deployment)
 
 
 <!--

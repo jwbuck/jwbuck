@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him/His/Mister
 - ⚡ Some of my favorite tools are:
     - Drawio, OmniGraffle, Cmder, VsCode, CLion
-    - JavaScript, TypeScript, Node.js, Rust, C++, Python
+    - JavaScript, TypeScript, Node.js, Rust, C++, Python, Java, C#
     - PostgreSQL, SQLite, TimescaleDB, InfluxDB, LevelDB
     - Open Computer Vision Library, Point Cloud Library, GraphQL, NLTK
     
